@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gercleyel.github.io/sitemap
+Sitemap: https://gercleyel.github.io/app/sitemap
+Sitemap: https://gercleyel.github.io/assets/sitemap
+Sitemap: https://gercleyel.github.io/css/sitemap
+Sitemap: https://gercleyel.github.io/includes/sitemap
+Sitemap: https://gercleyel.github.io/item/sitemap
+Sitemap: https://gercleyel.github.io/src/sitemap
